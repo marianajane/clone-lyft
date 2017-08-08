@@ -1,3 +1,3 @@
-# clone-lyft
-clone de Lyft colaborativo
-Este proyecto busca replicar la langpage de Lyft, el trabajo fue realizado colaborativamente con github.
+# Clon de Lyft
+Clon de Lyft colaborativo
+Este proyecto busca replicar la landpage de Lyft, el trabajo fue realizado con github colaborativo.
